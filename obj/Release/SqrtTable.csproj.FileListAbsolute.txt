@@ -1,0 +1,7 @@
+C:\Users\ShadowKnightMK4\source\repos\SqrtTable\SqrtTable\bin\Release\SqrtTable.exe.config
+C:\Users\ShadowKnightMK4\source\repos\SqrtTable\SqrtTable\bin\Release\SqrtTable.exe
+C:\Users\ShadowKnightMK4\source\repos\SqrtTable\SqrtTable\bin\Release\SqrtTable.pdb
+C:\Users\ShadowKnightMK4\source\repos\SqrtTable\SqrtTable\obj\Release\SqrtTable.csprojResolveAssemblyReference.cache
+C:\Users\ShadowKnightMK4\source\repos\SqrtTable\SqrtTable\obj\Release\SqrtTable.csproj.CoreCompileInputs.cache
+C:\Users\ShadowKnightMK4\source\repos\SqrtTable\SqrtTable\obj\Release\SqrtTable.exe
+C:\Users\ShadowKnightMK4\source\repos\SqrtTable\SqrtTable\obj\Release\SqrtTable.pdb

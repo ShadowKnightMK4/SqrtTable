@@ -1,0 +1,8 @@
+c:\users\shadowknightmk4\source\repos\SqrtTable\SqrtTable\bin\Debug\SqrtTable.exe.config
+c:\users\shadowknightmk4\source\repos\SqrtTable\SqrtTable\bin\Debug\SqrtTable.exe
+c:\users\shadowknightmk4\source\repos\SqrtTable\SqrtTable\bin\Debug\SqrtTable.pdb
+c:\users\shadowknightmk4\source\repos\SqrtTable\SqrtTable\obj\Debug\SqrtTable.csproj.CoreCompileInputs.cache
+c:\users\shadowknightmk4\source\repos\SqrtTable\SqrtTable\obj\Debug\SqrtTable.exe
+c:\users\shadowknightmk4\source\repos\SqrtTable\SqrtTable\obj\Debug\SqrtTable.pdb
+C:\Users\ShadowKnightMK4\source\repos\SqrtTable\SqrtTable\bin\Debug\SqrtTable.exe.CodeAnalysisLog.xml
+C:\Users\ShadowKnightMK4\source\repos\SqrtTable\SqrtTable\bin\Debug\SqrtTable.exe.lastcodeanalysissucceeded
