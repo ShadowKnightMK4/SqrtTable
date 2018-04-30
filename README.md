@@ -2,27 +2,22 @@
 
 To use:
 
-Open a console window and run SqrtTable.exe
-Will output the square roots of 1-1000 in the form up
+SqrtTableGit is a console app writting in c# for the Windows PC.
+If ran with no arguments it will output the square roots for numbers 1-1000 to the console in the below form.
 
-N=the number,	n *n,	sqrt(n) = the square root of the n rounded to 3 decimal places.
+N=X, N^2=Y, sqrt(N) = Z, N=X,  N^2=Y, sqrt(N) = Z N=X, N^2=Y, sqrt(N) = Z	    Where N is the number currently being used and X, Y, Z are the results of the calculations.
 
+There are a few parameneters that will modify the program's action.
 
-FLAGS:
-
-/?	- get some more documentation
-
-/C number	- set how high to go.
-
-1st argument is the name of the file to write the sqrt table to on the logged in user's desktop.
+/?		                -- Gets a helpfull message writting to the console screen instead of square roots.
+/C followed by a number		-- this sets how high to go in the square root calculations.
 
 
-After writing the sqrt table to a file open and print in notpad with a tiny font (I choose size 4) as a PDF.
-Finally print PDF pages. I ended up printing double sized by just feeding the page thru again.
+The 1st argument should be "nameoffile.txt" ect...	This names the file to place on the currently logged in user's desktop with the output instead of the console window.
 
 
-License:
-Free to use as one sees fit except do not hold me liable for anything.
-
-
-
+After running:
+	I opened the file in notepad then set the font size to 4.
+Next I converted it to PDF via the 'Print to PDF' feature built into windows. 
+Finally I printed the part I wanted onto 2 sides of a paper.
+The result was a calculated square root table up to about 840 on a single sheet of paper.
