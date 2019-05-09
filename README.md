@@ -21,3 +21,7 @@ After running:
 Next I converted it to PDF via the 'Print to PDF' feature built into windows. 
 Finally I printed the part I wanted onto 2 sides of a paper.
 The result was a calculated square root table up to about 840 on a single sheet of paper.
+
+
+License:
+This software and its source uploaded here may be freely used by anyone. There are no warenties for this software or its source. Use at own risk. I maintain copyright to this software and the right to modify the master branch here as I see fit.
